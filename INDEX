@@ -1,0 +1,6 @@
+RankRegV                Test and Variance estimator of rank estimating
+                        function in censored AFT model
+aft.fun                 Rank estimator in censored AFT model
+myeloma                 Multiple Myeloma Data
+rankaft                 Compute Rank estimator in right censored data
+                        AFT model

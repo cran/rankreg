@@ -1,0 +1,10 @@
+This package is based on R codes 
+either written by Mai Zhou or ported to R by Mai Zhou. 
+(mai@ms.uky.edu)
+The code  is ported from S code by Jin Z. 
+
+Everything is written in R, so porting to Splus should be
+easy. 
+
+Release History: 
+Version 0.1   Jan-Feb. 2005
