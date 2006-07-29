@@ -1,7 +1,7 @@
 This package is based on R codes 
 either written by Mai Zhou or ported to R by Mai Zhou. 
 (mai@ms.uky.edu)
-The code  is ported from S code by Jin Z. 
+The code  aft.fun.R is ported from Splus code by Jin Zhezhen. 
 
 Everything is written in R, so porting to Splus should be
 easy. 

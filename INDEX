@@ -4,3 +4,4 @@ aft.fun                 Rank estimator in censored AFT model
 myeloma                 Multiple Myeloma Data
 rankaft                 Compute Rank estimator in right censored data
                         AFT model
+smallcell               Smallcell Lung Cancer Data
